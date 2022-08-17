@@ -1,20 +1,19 @@
 ![MasterHead](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232)
 
 <h1 align="center">Hi 👋, I'm Timur Soliev</h1>
-<h3 align="center">A software engineer from Uzbekistan</h3>
+<h3 align="center">A software engineer from Tashkent, Uzbekistan</h3>
+
 <img align="right" width="400" src="resources/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
 
-
-- 🔭 I’m currently working on **CRM Backend**
-
-- 🌱 I’m currently learning **Python, Django and DRF**
+- 🌱 I’m currently learning **Python, Django and Rest Framework**
 
 - 📝 I regularly write articles on [https://t.me/timursoliev](https://t.me/timursoliev)
 
-- 💬 Ask me about **Python and Django**
+- 💬 Ask me about **Python, Django**
 
 - 📫 How to reach me **temursoliev2110@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,4 +34,3 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=temursolief&show_icons=true&locale=en" alt="temursolief" />
 
 </p>
-
