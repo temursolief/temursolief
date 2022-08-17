@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232)]
+![MasterHead](https://media.istockphoto.com/vectors/software-engineering-banner-and-icons-vector-id636526232)
 
 <h1 align="center">Hi 👋, I'm Timur Soliev</h1>
 <h3 align="center">A software engineer from Uzbekistan</h3>
