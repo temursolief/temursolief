@@ -4,10 +4,6 @@
 <h3 align="center">A software engineer from Uzbekistan</h3>
 <img align="right" width="400" src="resources/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temursolief" alt="temursolief" /></a> </p>
-
 - 🔭 I’m currently working on **CRM Backend**
 
 - 🌱 I’m currently learning **Python, Django and DRF**
@@ -17,6 +13,11 @@
 - 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **temursoliev2110@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=temursolief" alt="temursolief" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
