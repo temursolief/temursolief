@@ -5,6 +5,9 @@
 
 <img align="right" width="400" src="resources/giphy.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
+
+
 - 🌱 I’m currently learning **Python, Django and Rest Framework**
 
 - 📝 I regularly write articles on [https://t.me/timursoliev](https://t.me/timursoliev)
@@ -13,7 +16,6 @@
 
 - 📫 How to reach me **temursoliev2110@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
