@@ -1,4 +1,4 @@
-![MasterHead](resources/Timur Soliev.jpg)
+![MasterHead]("resources/Timur Soliev.jpg")
 
 <h1 align="center">Hi 👋, I'm Timur Soliev</h1>
 <h3 align="center">A software engineer from Tashkent, Uzbekistan</h3>
