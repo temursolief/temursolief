@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Timur Soliev</h1>
 <h3 align="center">A software engineer from Uzbekistan</h3>
-<img align="right" src="resources/giphy.gif">
+<img align="right" width="400" src="resources/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
 
