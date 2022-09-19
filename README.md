@@ -1,5 +1,3 @@
-![MasterHead](https://askerweb.by/wp-content/uploads/2021/06/Oblozhka-13.png)
-
 <h1 align="center">Hi 👋, I'm Timur Soliev</h1>
 <h3 align="center">A software engineer from Tashkent, Uzbekistan</h3>
 
