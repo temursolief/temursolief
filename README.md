@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Timur Soliev</h1>
-<h3 align="center">A software engineer from Tashkent, Uzbekistan</h3>
+<h3 align="center">A weirdo from Tashkent, Uzbekistan</h3>
 
+<!--
 <img align="right" width="400" src="resources/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temursolief&label=Profile%20views&color=0e75b6&style=flat" alt="temursolief" /> </p>
-
 
 - 🌱 I’m currently learning **Python, Django and Rest Framework**
 
@@ -34,3 +34,4 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=temursolief&show_icons=true&locale=en" alt="temursolief" />
 
 </p>
+-->
