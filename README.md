@@ -1,5 +1,13 @@
 <h1 align="center"> ================ Hi 👋, I'm Timur Soliev ================</h1>
-<h3 align="center">A weirdo from Tashkent, Uzbekistan</h3>
+<!-- <h3 align="center">A weirdo from Tashkent, Uzbekistan</h3> -->
+<pre>
+                    =============================================================
+                    ||                                                         ||
+                    ||         A weirdo from Tashkent, Uzbekistan              ||
+                    ||                                                         ||
+                    =============================================================
+</pre>
+
 
 <!--
 <img align="right" width="400" src="resources/giphy.gif">
