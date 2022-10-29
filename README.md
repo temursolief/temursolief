@@ -1,4 +1,4 @@
-<h1 align="center"> ================ Hi 👋, I'm Timur Soliev ===============</h1>
+<h1 style="float:'right'"> Hi 👋, I'm Timur Soliev </h1>
 <!-- <h3 align="center">A weirdo from Tashkent, Uzbekistan</h3> -->
 <pre>
                                    =====================================================
