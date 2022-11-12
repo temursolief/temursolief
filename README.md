@@ -3,7 +3,7 @@
 <pre>
                                    =====================================================
                                    ||                                                 ||
-                                   ||    A weirdo from Tashkent, Uzbekistan           ||
+                                   ||     A programmer from Tashkent, Uzbekistan      ||
                                    ||                                                 ||
                                    =====================================================
 </pre>
